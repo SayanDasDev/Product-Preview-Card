@@ -21,6 +21,7 @@ html{
 
 img{
 	max-width: 100%;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
 }
 
 body{
@@ -52,6 +53,7 @@ ul{
 
 .container{
 	max-width: 500px;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
 }
 
 .container article:first-child img{
